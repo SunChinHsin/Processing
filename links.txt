@@ -1,0 +1,21 @@
+https://yourlai.lwedu.cn/?s=processing
+
+http://www.i-element.org/category/%E5%85%B4%E8%B6%A3%E5%B0%8F%E7%BB%84/processing%E5%B0%8F%E7%BB%84/
+http://www.i-element.org/02CodeandDrawing/assets/player/KeynoteDHTMLPlayer.html#28
+
+http://blog.lyhdev.com/2012/04/processing.html
+
+https://zooe.in/tutorials/21
+
+https://beesandbombs.tumblr.com/
+
+
+http://ravenkwok.com/
+
+
+ 
+//清除背景
+void mousePressed() {
+  background(9, 35, 54);
+}
+
